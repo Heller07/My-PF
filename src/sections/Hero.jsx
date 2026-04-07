@@ -47,7 +47,7 @@ export const Hero = () => {
     <section className="relative min-h-screen flex items-center overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="/hero-bg.jpg"
+          src="/hero-bg1.png"
           alt="Hero Image"
           className="w-full h-full object-cover opacity-40"
         />
@@ -82,12 +82,11 @@ export const Hero = () => {
 
             <div className="space-y-4">
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in animation-delay-100">
-                Building <span className="text-primary glow-text">digital</span>
-                <br />
-                experiences with
+                Creating <span className="text-primary glow-text">user friendly </span>
+                digital
                 <br />
                 <span className="font-serif italic font-normal text-white">
-                  precision.
+                  experiences.
                 </span>
               </h1>
 
