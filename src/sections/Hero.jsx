@@ -47,7 +47,7 @@ export const Hero = () => {
     <section className="relative min-h-screen flex items-center overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="/hero-bg1.png"
+          src="/hero-bg.jpg"
           alt="Hero Image"
           className="w-full h-full object-cover opacity-40"
         />
